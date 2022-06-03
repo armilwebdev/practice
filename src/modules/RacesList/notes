@@ -1,0 +1,19 @@
+
+  // console.log(Object.values(Countries));
+
+  // console.log(Races[0].Circuit.Location.country);
+  // Races.forEach(function(race){
+  //   let country = race.Circuit.Location.country;
+  //   let countries = Countries;
+
+  //   // if(Object.values(countries) === country){
+  //   //   console.log(countries.value);
+  //   // } else {
+  //   //   console.log("FAIL")
+  //   // }
+
+  // })
+
+  // const output = Object.values(Countries).filter((obj) => Races.Circuit.Location.country.indexOf(obj) !== -1);
+
+  // console.log(output);
